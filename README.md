@@ -1,0 +1,2 @@
+# EridaniCore
+lol EridaniCore
